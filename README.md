@@ -1,6 +1,6 @@
 ### 20221202
 #### Interpolation
-Key:$ p_k(x) = \sum_{k=0}^n a_k{\phi}_k(x)$ 
+Key:$p_k(x) = \sum_{k=0}^n a_k{\phi}_k(x)$ 
 
 ##### Different basis functions:
 
